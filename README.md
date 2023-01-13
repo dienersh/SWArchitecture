@@ -1,4 +1,5 @@
 # SWArchitecture
-Software Architecture
-Ming Zeng
-Matthew Salazar
+Software Architecture:
+Ming Zeng,
+Matthew Salazar,
+Sam Diener
